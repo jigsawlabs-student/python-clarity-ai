@@ -1,0 +1,6 @@
+requests
+bs4
+readability-lxml
+pydantic
+fastapi
+python-dotenv
